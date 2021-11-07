@@ -10,9 +10,9 @@
 
 Planning
 
-1 [EPIC - 가상 화페 프로젝트 기능/목적 다큐멘트](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/3)
-2 [EPIC - 유저 인터페이스 - 디자인 프로토 타이핑](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/2)
-3 [EPIC - 가상화페 Architecture 구현 하기](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/1)
+1. [EPIC - 가상 화페 프로젝트 기능/목적 다큐멘트](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/3)
+2. [EPIC - 유저 인터페이스 - 디자인 프로토 타이핑](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/2)
+3. [EPIC - 가상화페 Architecture 구현 하기](https://github.com/Korean-American-IT-Association-KAITA/Digital_Currency_Platform/issues/1)
 
 ## 👨‍💻 테크 스택
 
