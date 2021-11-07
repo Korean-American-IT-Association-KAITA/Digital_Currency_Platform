@@ -37,7 +37,6 @@ Planning
 필요한 포지션
 - [ ] Architect
 - [ ] 디자이너
-- [ ] 필요한 포지션: Architect
 
 # ⚠️ 라이센스
 
